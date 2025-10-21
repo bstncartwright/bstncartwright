@@ -2,7 +2,7 @@
 
 Staff AI Engineer @ **Vasion**  
 Focused on shipping high-leverage developer experience (DevX) platforms and practical AI that accelerates product delivery.  
-Also: Husband, and most importantly — **Father** 👨‍👧 (the title that dwarfs the rest).
+Also most importantly — **Father** 👨‍👧 (the title that dwarfs the rest).
 
 <p>
   <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white">
