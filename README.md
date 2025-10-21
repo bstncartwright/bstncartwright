@@ -69,6 +69,9 @@ So I optimize for:
 ### Speaking
 A few recent / representative talks (more at https://bostonc.dev/speaking/):
 
+- 2025 · Beyond Frontend and Backend: Defining the AI Layer (Commit Your Code Conference)  
+  Exploring AI as a strategic layer in modern product architectures, with actionable approaches for shipping domain-specific intelligence.  
+  [Abstract](https://bostonc.dev/speaking/beyond-frontend-and-backend-commit-your-code-2025/)
 - 2024 · Brainrot Golang (GoWestConf)  
   Using Go to procedurally generate “brainrot” style short-form video content—leveraging humor + pop culture to teach automation, content pipelines, and creative misuse of tooling.
   [Abstract](https://bostonc.dev/speaking/brainrot-golang-gowestconf-2024/)
@@ -80,7 +83,7 @@ A few recent / representative talks (more at https://bostonc.dev/speaking/):
   [Overview](https://bostonc.dev/speaking/database-best-practices-panel-gowestconf-2023/)
 
 Topics I enjoy exploring on stage:
-- AI woven into DevX (not bolted on)
+- AI woven into products (not bolted on)
 - Developer platform productization
 - Instrumenting the engineering lifecycle (flow + quality signals)
 - Turning curiosity into compounding team leverage
