@@ -1,6 +1,6 @@
 # Hi, I'm Boston (bstncartwright) 👋
 
-Staff AI Engineer @ **Vasion**  
+Head of Agentic AI @ **Patch Retention**  
 Focused on shipping high-leverage developer experience (DevX) platforms and practical AI that accelerates product delivery.  
 Also most importantly — **Father** 👨‍👧 (the title that dwarfs the rest).
 
